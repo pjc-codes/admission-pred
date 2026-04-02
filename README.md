@@ -5,6 +5,8 @@ This project demonstrates practical data science skills through the analysis of 
 I explored how academic performance and profile factors impact admission chances and built a Linear Regression model to predict an individual’s probability of admission.  
 It highlights proficiency in EDA, statistical modeling, and interpretability of ML models.
 
+You can read the blogpost explaining this project here: https://medium.com/@prathik.codes/predicting-chances-of-admission-with-regression-models-b4b732ff14a9
+
 ---
 
 ## Overview
